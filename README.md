@@ -2,11 +2,11 @@
 
 # GenAI4SC: AI agents for supply chain
 
-**Supply chain professionals build AI agents live, without writing code.** The three sessions on agents of GenAI4SC, an international 9-session course; I prepared and taught them, two of them co-taught.
+**Supply chain professionals build AI agents live, without writing code.** My three agent sessions in GenAI4SC, an international 9-session course: I prepared and taught all three, two with a co-instructor.
 
-[![The same request sent to one agent with eight tools, which gives up, then to a main agent with two sub-agents, which delivers the board report (click for the full video)](docs/demo.gif)](https://drive.google.com/file/d/1bJ8uv2e7hfYDbE_1NuIyIZVNIgUMSoKV/view)
+[![The same request sent in n8n to one agent with eight tools, which fails, then to a main agent with two sub-agents, which delivers the board report (click for the full video)](docs/demo.gif)](https://drive.google.com/file/d/1bJ8uv2e7hfYDbE_1NuIyIZVNIgUMSoKV/view)
 
-*Instructor demo in n8n: one agent with eight tools gives up; a main agent with two sub-agents delivers the report. Real run, sped up. [Full video (1:31)](https://drive.google.com/file/d/1bJ8uv2e7hfYDbE_1NuIyIZVNIgUMSoKV/view)*
+*Instructor demo in n8n, real run, sped up. [Full video (1:31)](https://drive.google.com/file/d/1bJ8uv2e7hfYDbE_1NuIyIZVNIgUMSoKV/view)*
 
 ## Using it
 
@@ -17,18 +17,16 @@
 
 ## Architecture
 
-![GenAI4SC architecture: participants build agents on an n8n server that calls Groq and Tavily, check each step in a Google quiz, and in session 3 open a group terminal running Claude Code that publishes their deliverables](docs/architecture.en.svg)
+![GenAI4SC architecture: participants build agents on an n8n server that calls Groq and Tavily, check each step in a Google quiz, and for app design open a group terminal where Claude Code publishes their deliverables](docs/architecture.en.svg)
 
 ## Delivered
 
 - **Course.** Given in full in spring 2026: 9 two-hour sessions.
 - **Material.** 19 n8n workflows with a mirrored backup server, four group terminals, a 21-slide deck, tutorials and exercise videos.
-- **Feedback.** 11 respondents: 9 would recommend the course, 2 are neutral; all rate the instructors' presentation skills as excellent.
-- **Now.** The course servers are stopped.
-- **Stack.** n8n, Groq, Tavily, Ollama (embeddings), `ttyd`, `tmux`, Docker, Traefik, Node.js, Google Apps Script, Slidev.
+- **Feedback.** Whole-course survey, 11 respondents: 9 would recommend the course, 2 are neutral; all agree the instructors' presentation skills were excellent (55% strongly).
+- **Now.** The main n8n server and the group terminals are stopped; the school's backup n8n server still runs. Material and participants' work stay private.
+- **Stack.** n8n, Groq, Tavily, Ollama (embeddings), `ttyd`, `tmux`, Docker, Traefik, Node.js, Claude Code, Google Apps Script, Slidev.
 
 ---
 
 **Anthony Hunt** · [ingevision.cloud](https://ingevision.cloud/?lang=en&p=genai4sc) · [LinkedIn](https://www.linkedin.com/in/anthony-hunt-3948a9196) · [GitHub](https://github.com/anthohunt)
-
-The course material, the workflows and the participants' work are private.
