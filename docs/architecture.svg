@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="IBM Plex Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" role="img" aria-label="Architecture du cours GenAI4SC">
+<title>Architecture du cours GenAI4SC</title>
+<defs><marker id="m" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#5d6b82"/></marker><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#1f4fd1"/></marker></defs>
+<rect width="800" height="620" rx="16" fill="#ffffff"/>
+<rect x="20" y="20" width="400" height="110" rx="14" fill="#e6ebf2" stroke="#c9d1dd" stroke-dasharray="4 4"/><text x="34" y="42" fill="#5d6b82" font-size="12" font-weight="600" letter-spacing=".72">PARTICIPANTS</text>
+<rect x="560" y="20" width="220" height="110" rx="14" fill="#e6ebf2" stroke="#c9d1dd" stroke-dasharray="4 4"/><text x="574" y="42" fill="#5d6b82" font-size="12" font-weight="600" letter-spacing=".72">GOOGLE</text>
+<rect x="20" y="190" width="400" height="260" rx="14" fill="#e6ebf2" stroke="#c9d1dd" stroke-dasharray="4 4"/><text x="406" y="212" text-anchor="end" fill="#5d6b82" font-size="12" font-weight="600" letter-spacing=".72">SESSIONS 1 ET 2 · SERVEUR n8n</text>
+<rect x="440" y="190" width="340" height="260" rx="14" fill="#e6ebf2" stroke="#c9d1dd" stroke-dasharray="4 4"/><text x="454" y="438" fill="#5d6b82" font-size="12" font-weight="600" letter-spacing=".72">SESSION 3 · VPS</text>
+<rect x="20" y="490" width="760" height="110" rx="14" fill="#e6ebf2" stroke="#c9d1dd" stroke-dasharray="4 4"/><text x="34" y="588" fill="#5d6b82" font-size="12" font-weight="600" letter-spacing=".72">SERVICES EN LIGNE</text>
+<rect x="40" y="52" width="360" height="60" rx="10" fill="#fff" stroke="#1f4fd1" stroke-width="2.2"/><text x="52" y="77" fill="#14213d" font-size="14" font-weight="600">Groupes de participants</text><text x="52" y="97" fill="#5d6b82" font-size="12.5">navigateur, sans programmer</text>
+<rect x="570" y="52" width="200" height="60" rx="10" fill="#fff" stroke="#1f4fd1" stroke-width="2.2"/><text x="582" y="77" fill="#14213d" font-size="14" font-weight="600">Quiz à étapes</text><text x="582" y="97" fill="#5d6b82" font-size="12.5">Apps Script · classement</text>
+<rect x="40" y="225" width="190" height="60" rx="10" fill="#fff" stroke="#1f4fd1" stroke-width="2.2"/><text x="52" y="250" fill="#14213d" font-size="14" font-weight="600">Agent principal</text><text x="52" y="270" fill="#5d6b82" font-size="12.5">workflow n8n</text>
+<rect x="40" y="355" width="190" height="60" rx="10" fill="#fff" stroke="#1f4fd1" stroke-width="2.2"/><text x="52" y="380" fill="#14213d" font-size="14" font-weight="600">Six sous-agents</text><text x="52" y="400" fill="#5d6b82" font-size="12.5">en équipes</text>
+<rect x="260" y="225" width="140" height="60" rx="10" fill="#fff" stroke="#1f4fd1" stroke-width="2.2"/><text x="272" y="250" fill="#14213d" font-size="14" font-weight="600">Base documentaire</text><text x="272" y="270" fill="#5d6b82" font-size="12.5">RAG</text>
+<rect x="460" y="225" width="140" height="60" rx="10" fill="#fff" stroke="#1f4fd1" stroke-width="2.2"/><text x="472" y="250" fill="#14213d" font-size="14" font-weight="600">Portail</text><text x="472" y="270" fill="#5d6b82" font-size="12.5">un mot de passe</text>
+<rect x="620" y="225" width="140" height="60" rx="10" fill="#fff" stroke="#1f4fd1" stroke-width="2.2"/><text x="632" y="250" fill="#14213d" font-size="14" font-weight="600">Livrables</text><text x="632" y="270" fill="#5d6b82" font-size="12.5">page publique</text>
+<rect x="460" y="355" width="300" height="60" rx="10" fill="#fff" stroke="#1f4fd1" stroke-width="2.2"/><text x="472" y="380" fill="#14213d" font-size="14" font-weight="600">Terminal du groupe</text><text x="472" y="400" fill="#5d6b82" font-size="12.5">un conteneur · tmux · Claude Code</text>
+<rect x="40" y="505" width="220" height="60" rx="10" fill="#fff" stroke="#1f4fd1" stroke-width="2.2"/><text x="52" y="530" fill="#14213d" font-size="14" font-weight="600">Groq</text><text x="52" y="550" fill="#5d6b82" font-size="12.5">gpt-oss-120b · llama-3.3-70b</text>
+<rect x="290" y="505" width="220" height="60" rx="10" fill="#fff" stroke="#1f4fd1" stroke-width="2.2"/><text x="302" y="530" fill="#14213d" font-size="14" font-weight="600">Tavily</text><text x="302" y="550" fill="#5d6b82" font-size="12.5">recherche web, par MCP</text>
+<rect x="540" y="505" width="220" height="60" rx="10" fill="#fff" stroke="#c9d1dd" stroke-width="1.4"/><text x="552" y="530" fill="#5d6b82" font-size="14" font-weight="600">Claude</text><text x="552" y="550" fill="#5d6b82" font-size="12.5">compte dédié au cours</text>
+<path d="M135 112L135 225" fill="none" stroke="#1f4fd1" stroke-width="2.4" marker-end="url(#a)"/>
+<rect x="78.6" y="157" width="112.8" height="18" rx="4" fill="#fff"/><text x="135" y="170" text-anchor="middle" fill="#1f4fd1" font-size="12" font-weight="600">construit, lance</text>
+<circle cx="67.6" cy="166" r="9" fill="#fff" stroke="#1f4fd1" stroke-width="1.5"/><text x="67.6" y="170" text-anchor="middle" fill="#1f4fd1" font-size="11" font-weight="700" font-family="IBM Plex Mono, Consolas, monospace">1</text>
+<path d="M135 285L135 355" fill="none" stroke="#1f4fd1" stroke-width="2.4" marker-end="url(#a)"/>
+<rect x="107.0" y="313" width="56.1" height="18" rx="4" fill="#fff"/><text x="135" y="326" text-anchor="middle" fill="#1f4fd1" font-size="12" font-weight="600">délègue</text>
+<circle cx="96.0" cy="322" r="9" fill="#fff" stroke="#1f4fd1" stroke-width="1.5"/><text x="96.0" y="326" text-anchor="middle" fill="#1f4fd1" font-size="11" font-weight="700" font-family="IBM Plex Mono, Consolas, monospace">2</text>
+<path d="M230 385L330 385L330 285" fill="none" stroke="#1f4fd1" stroke-width="2.4" marker-end="url(#a)"/>
+<rect x="248.8" y="376" width="62.4" height="18" rx="4" fill="#fff"/><text x="280" y="389" text-anchor="middle" fill="#1f4fd1" font-size="12" font-weight="600">consulte</text>
+<circle cx="237.8" cy="385" r="9" fill="#fff" stroke="#1f4fd1" stroke-width="1.5"/><text x="237.8" y="389" text-anchor="middle" fill="#1f4fd1" font-size="11" font-weight="700" font-family="IBM Plex Mono, Consolas, monospace">3</text>
+<path d="M120 415L120 505" fill="none" stroke="#1f4fd1" stroke-width="2.4" marker-end="url(#a)"/>
+<rect x="60.5" y="461" width="119.1" height="18" rx="4" fill="#fff"/><text x="120" y="474" text-anchor="middle" fill="#1f4fd1" font-size="12" font-weight="600">appelle le modèle</text>
+<circle cx="49.5" cy="470" r="9" fill="#fff" stroke="#1f4fd1" stroke-width="1.5"/><text x="49.5" y="474" text-anchor="middle" fill="#1f4fd1" font-size="11" font-weight="700" font-family="IBM Plex Mono, Consolas, monospace">4</text>
+<path d="M200 415L200 470L400 470L400 505" fill="none" stroke="#1f4fd1" stroke-width="2.4" marker-end="url(#a)"/>
+<rect x="237.3" y="461" width="125.4" height="18" rx="4" fill="#fff"/><text x="300" y="474" text-anchor="middle" fill="#1f4fd1" font-size="12" font-weight="600">cherche sur le web</text>
+<circle cx="226.3" cy="470" r="9" fill="#fff" stroke="#1f4fd1" stroke-width="1.5"/><text x="226.3" y="474" text-anchor="middle" fill="#1f4fd1" font-size="11" font-weight="700" font-family="IBM Plex Mono, Consolas, monospace">5</text>
+<path d="M400 82L570 82" fill="none" stroke="#1f4fd1" stroke-width="2.4" marker-end="url(#a)"/>
+<rect x="434.9" y="73" width="100.2" height="18" rx="4" fill="#fff"/><text x="485" y="86" text-anchor="middle" fill="#1f4fd1" font-size="12" font-weight="600">valide l’étape</text>
+<circle cx="423.9" cy="82" r="9" fill="#fff" stroke="#1f4fd1" stroke-width="1.5"/><text x="423.9" y="86" text-anchor="middle" fill="#1f4fd1" font-size="11" font-weight="700" font-family="IBM Plex Mono, Consolas, monospace">6</text>
+<path d="M360 112L360 160L530 160L530 225" fill="none" stroke="#1f4fd1" stroke-width="2.4" marker-end="url(#a)"/>
+<rect x="382.3" y="151" width="125.4" height="18" rx="4" fill="#fff"/><text x="445" y="164" text-anchor="middle" fill="#1f4fd1" font-size="12" font-weight="600">ouvre son terminal</text>
+<circle cx="371.3" cy="160" r="9" fill="#fff" stroke="#1f4fd1" stroke-width="1.5"/><text x="371.3" y="164" text-anchor="middle" fill="#1f4fd1" font-size="11" font-weight="700" font-family="IBM Plex Mono, Consolas, monospace">7</text>
+<path d="M530 285L530 355" fill="none" stroke="#1f4fd1" stroke-width="2.4" marker-end="url(#a)"/>
+<rect x="508.2" y="313" width="43.5" height="18" rx="4" fill="#fff"/><text x="530" y="326" text-anchor="middle" fill="#1f4fd1" font-size="12" font-weight="600">lance</text>
+<circle cx="497.2" cy="322" r="9" fill="#fff" stroke="#1f4fd1" stroke-width="1.5"/><text x="497.2" y="326" text-anchor="middle" fill="#1f4fd1" font-size="11" font-weight="700" font-family="IBM Plex Mono, Consolas, monospace">8</text>
+<path d="M690 355L690 285" fill="none" stroke="#1f4fd1" stroke-width="2.4" marker-end="url(#a)"/>
+<rect x="665.1" y="313" width="49.8" height="18" rx="4" fill="#fff"/><text x="690" y="326" text-anchor="middle" fill="#1f4fd1" font-size="12" font-weight="600">publie</text>
+<circle cx="654.1" cy="322" r="9" fill="#fff" stroke="#1f4fd1" stroke-width="1.5"/><text x="654.1" y="326" text-anchor="middle" fill="#1f4fd1" font-size="11" font-weight="700" font-family="IBM Plex Mono, Consolas, monospace">9</text>
+<path d="M650 415L650 505" fill="none" stroke="#5d6b82" stroke-width="1.6" marker-end="url(#m)"/>
+<rect x="625.1" y="461" width="49.8" height="18" rx="4" fill="#fff"/><text x="650" y="474" text-anchor="middle" fill="#5d6b82" font-size="12" font-weight="400">modèle</text>
+</svg>
