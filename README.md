@@ -17,7 +17,13 @@
 
 ## Architecture
 
-![GenAI4SC architecture: participants build agents on an n8n server that calls Groq and Tavily, check each step in a Google quiz, and for app design open a group terminal where Claude Code publishes their deliverables](docs/architecture.en.svg)
+![GenAI4SC architecture: participants build agents on an n8n server that calls Groq and Tavily, check each step in a Google quiz, and for app design open a group terminal where Claude Code publishes their deliverables](docs/architecture.svg)
+
+<details><summary>French version</summary>
+
+![Architecture de GenAI4SC : les participants construisent des agents sur un serveur n8n qui appelle Groq et Tavily, valident chaque étape dans un quiz Google, et pour la conception d'application ouvrent un terminal de groupe où Claude Code publie leurs livrables](docs/architecture.fr.svg)
+
+</details>
 
 ## Delivered
 

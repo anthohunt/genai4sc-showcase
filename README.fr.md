@@ -19,6 +19,12 @@
 
 ![Architecture de GenAI4SC : les participants construisent des agents sur un serveur n8n qui appelle Groq et Tavily, valident chaque étape dans un quiz Google, et pour la conception d'application ouvrent un terminal de groupe où Claude Code publie leurs livrables](docs/architecture.svg)
 
+<details><summary>Diagramme en français</summary>
+
+![Architecture de GenAI4SC : les participants construisent des agents sur un serveur n8n qui appelle Groq et Tavily, valident chaque étape dans un quiz Google, et pour la conception d'application ouvrent un terminal de groupe où Claude Code publie leurs livrables](docs/architecture.fr.svg)
+
+</details>
+
 ## Réalisé
 
 - **Cours.** Donné en entier au printemps 2026 : 9 sessions de 2 heures.
