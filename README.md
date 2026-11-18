@@ -4,15 +4,15 @@
 
 **Supply chain professionals build AI agents live, without writing code.** My three agent sessions in GenAI4SC, an international 9-session course: I prepared and taught all three, two with a co-instructor.
 
-[![The same request sent in n8n to one agent with eight tools, which fails, then to a main agent with two sub-agents, which delivers the board report (click for the full video)](docs/demo.webp)](https://drive.google.com/file/d/1bJ8uv2e7hfYDbE_1NuIyIZVNIgUMSoKV/view)
+![The same request sent in n8n to one agent with eight tools, which fails, then to a main agent with two sub-agents, which delivers the board report](docs/demo.webp)
 
 <details><summary>French version</summary>
 
-[![La même demande confiée dans n8n à un agent seul avec huit outils, qui échoue, puis à un agent principal avec deux sous-agents, qui rend le rapport (cliquer pour la vidéo complète)](docs/demo.fr.webp)](https://drive.google.com/file/d/1XMN-ABYpTxgdQYq_smE8LlSZN2GdkHFD/view)
+![La même demande confiée dans n8n à un agent seul avec huit outils, qui échoue, puis à un agent principal avec deux sous-agents, qui rend le rapport](docs/demo.fr.webp)
 
 </details>
 
-*Instructor demo in n8n, real run, sped up. [Full video (1:31)](https://drive.google.com/file/d/1bJ8uv2e7hfYDbE_1NuIyIZVNIgUMSoKV/view)*
+*Instructor demo in n8n, real run, sped up.*
 
 ## Using it
 

@@ -4,15 +4,15 @@
 
 **Des professionnels de la supply chain construisent des agents d'IA en direct, sans écrire de code.** Mes trois sessions sur les agents dans GenAI4SC, un cours international en 9 sessions : je les ai préparées et données, deux en binôme.
 
-[![La même demande confiée dans n8n à un agent seul avec huit outils, qui échoue, puis à un agent principal avec deux sous-agents, qui rend le rapport (version anglaise, cliquer pour la vidéo complète)](docs/demo.webp)](https://drive.google.com/file/d/1bJ8uv2e7hfYDbE_1NuIyIZVNIgUMSoKV/view)
+![La même demande confiée dans n8n à un agent seul avec huit outils, qui échoue, puis à un agent principal avec deux sous-agents, qui rend le rapport (version anglaise)](docs/demo.webp)
 
 <details><summary>Version française</summary>
 
-[![La même demande confiée dans n8n à un agent seul avec huit outils, qui échoue, puis à un agent principal avec deux sous-agents, qui rend le rapport (cliquer pour la vidéo complète)](docs/demo.fr.webp)](https://drive.google.com/file/d/1XMN-ABYpTxgdQYq_smE8LlSZN2GdkHFD/view)
+![La même demande confiée dans n8n à un agent seul avec huit outils, qui échoue, puis à un agent principal avec deux sous-agents, qui rend le rapport](docs/demo.fr.webp)
 
 </details>
 
-*Démo de l'instructeur dans n8n, vraie exécution, accélérée. [Vidéo complète (1 min 31)](https://drive.google.com/file/d/1XMN-ABYpTxgdQYq_smE8LlSZN2GdkHFD/view)*
+*Démo de l'instructeur dans n8n, vraie exécution, accélérée.*
 
 ## Ce qu'on y fait
 
